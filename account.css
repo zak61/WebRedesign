@@ -1,0 +1,35 @@
+@import url(https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css);
+@import url(https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js);
+
+
+body {
+    background-image: url("images/thomas-werneken-ug5q1pvdj4M-unsplash\ \(1\).jpg") ;
+    background-color: #cccccc;
+  }
+.profile-button
+{
+    background: rgb(68, 68, 68);box-shadow: none;border: none
+}
+
+.profile-button:hover{background: #494949
+}
+
+.profile-button:focus{background: #444444;box-shadow: none
+}
+
+.profile-button:active
+{
+    background: #000000;box-shadow: none
+}
+.back:hover
+
+{
+    color: #f1f1f1;cursor: pointer
+    
+}
+.labels
+{
+    font-size: 11px
+}
+.add-experience:hover{background: #ebebeb;color: #fff;cursor: pointer;border: solid 1px #f0f0f0}
